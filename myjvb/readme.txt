@@ -1,0 +1,1 @@
+このフォルダがdockerで動くjvb。debian/jitsi-videobridgeが上書きする。

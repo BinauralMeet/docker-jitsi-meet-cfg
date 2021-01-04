@@ -799,4 +799,4 @@ if (!config.hasOwnProperty('testing')) config.testing = {};
 if (!config.testing.hasOwnProperty('octo')) config.testing.octo = {};
 
 config.testing.capScreenshareBitrate = 1;
-config.testing.octo.probability = 0;
+config.testing.octo.probability = 1;
